@@ -1,0 +1,1 @@
+планы на неделю, git commit; дополнить day1.txt, git diff → git commit -m "Update day1"
