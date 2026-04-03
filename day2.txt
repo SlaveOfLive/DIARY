@@ -1,0 +1,1 @@
+про вчерашний день, git commit -m "Add day2: notes about yesterday"
